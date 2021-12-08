@@ -1,0 +1,53 @@
+body {
+	margin: 0;
+	min-width: 320px;
+   font-size: 26px;
+	box-sizing: border-box;
+}
+h1, h2, h3 {
+	margin: 0;
+}
+
+p {
+	font-weight: 500;
+	font-size: 20px;
+	margin: 0 0 10px;
+	text-align: center;
+}
+
+b,
+strong {
+  font-weight: 700;
+  font-size: 12px;
+}
+span {
+	font-weight: 300;
+	font-style: normal;
+	font-size: 16px;
+}
+sub,
+sup {
+	font-weight: 300;
+	font-style: italic;
+	font-size: 16px;
+}
+
+li {
+	list-style-type: '\2714';
+	
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+a:hover {
+	color: #ebdc0f;
+	
+}
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
